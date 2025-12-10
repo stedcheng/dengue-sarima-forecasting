@@ -8,7 +8,7 @@ Dengue remains a major public health concern in the Philippines, with seasonal s
 <ul>
     <li>PDF: Research paper</li>
     <li>R File: Codes for the time series analysis and forecasting</li>
-    <li><code>disease_pidsr_totals</code> and <code>location</code>: Datasets used in the study</li>
+    <li><code>disease_pidsr_totals.csv</code> and <code>location.csv</code>: Datasets used in the study</li>
 </ul>
 
 <h2>Credits</h2>
